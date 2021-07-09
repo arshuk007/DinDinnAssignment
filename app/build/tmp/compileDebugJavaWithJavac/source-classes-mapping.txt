@@ -1,0 +1,50 @@
+com/example/dindinn/databinding/ActivityMainBinding.java
+ com.example.dindinn.databinding.ActivityMainBinding
+com/example/dindinn/databinding/ItemItemBinding.java
+ com.example.dindinn.databinding.ItemItemBinding
+com/example/dindinn/BR.java
+ com.example.dindinn.BR
+com/example/dindinn/databinding/FragmentIncredientBindingImpl.java
+ com.example.dindinn.databinding.FragmentIncredientBindingImpl
+com/example/dindinn/databinding/ActivityIncredientBindingImpl.java
+ com.example.dindinn.databinding.ActivityIncredientBindingImpl
+com/example/dindinn/databinding/ItemIncredientBinding.java
+ com.example.dindinn.databinding.ItemIncredientBinding
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/dindinn/databinding/ItemAddonBindingImpl.java
+ com.example.dindinn.databinding.ItemAddonBindingImpl
+com/example/dindinn/databinding/ItemItemBindingImpl.java
+ com.example.dindinn.databinding.ItemItemBindingImpl
+com/example/dindinn/databinding/ActivitySplashBindingImpl.java
+ com.example.dindinn.databinding.ActivitySplashBindingImpl
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/dindinn/utils/JsonSerializer.java
+ com.example.dindinn.utils.JsonSerializer
+com/example/dindinn/databinding/ItemAddonBinding.java
+ com.example.dindinn.databinding.ItemAddonBinding
+com/example/dindinn/databinding/ItemOrderBinding.java
+ com.example.dindinn.databinding.ItemOrderBinding
+com/example/dindinn/databinding/FragmentIncredientBinding.java
+ com.example.dindinn.databinding.FragmentIncredientBinding
+com/example/dindinn/databinding/ActivitySplashBinding.java
+ com.example.dindinn.databinding.ActivitySplashBinding
+com/example/dindinn/DataBinderMapperImpl.java
+ com.example.dindinn.DataBinderMapperImpl
+ com.example.dindinn.DataBinderMapperImpl$InnerBrLookup
+ com.example.dindinn.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/dindinn/BuildConfig.java
+ com.example.dindinn.BuildConfig
+com/example/dindinn/databinding/ItemIncredientBindingImpl.java
+ com.example.dindinn.databinding.ItemIncredientBindingImpl
+com/example/dindinn/databinding/ItemOrderBindingImpl.java
+ com.example.dindinn.databinding.ItemOrderBindingImpl
+com/example/dindinn/databinding/ActivityIncredientBinding.java
+ com.example.dindinn.databinding.ActivityIncredientBinding
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/dindinn/databinding/ActivityMainBindingImpl.java
+ com.example.dindinn.databinding.ActivityMainBindingImpl
+com/example/dindinn/DataBindingTriggerClass.java
+ com.example.dindinn.DataBindingTriggerClass

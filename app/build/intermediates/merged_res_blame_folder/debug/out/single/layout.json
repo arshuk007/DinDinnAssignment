@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_incredient.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/fragment_incredient.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_incredient.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/activity_incredient.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_order.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/item_order.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_item.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/item_item.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_addon.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/item_addon.xml"
+    },
+    {
+        "merged": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_incredient.xml",
+        "source": "/Users/muhammedarshadk/Arshad/Projects/Android/DinDinnAssignment/app/src/main/res/layout/item_incredient.xml"
+    }
+]

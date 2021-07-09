@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DinDinn</string>
+    <string name="auto_reject">Auto reject</string>
+    <string name="at">at</string>
+    <string name="accept">Accept</string>
+    <string name="expired">Expired</string>
+
+</resources>

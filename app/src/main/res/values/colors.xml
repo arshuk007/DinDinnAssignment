@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2eb680</color>
+    <color name="colorPrimaryDark">#2eb680</color>
+    <color name="colorAccent">#2eb680</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#fed000</color>
+    <color name="colorLightGrey">#D8D8D8</color>
+    <color name="colorBlue">#1700FF</color>
+
+    <color name="grey_line">#999999</color>
+    <color name="text_color">#263238</color>
+    <color name="colorPrimaryText">#212121</color>
+    <color name="colorSecondaryText">#868686</color>
+    <color name="colorDarkGrey">#555555</color>
+    <color name="colorGrayLight">#e8e8e8</color>
+    <color name="colorEdit">#f7f7f9</color>
+    <color name="colorNol">#00000000</color>
+    <color name="colorDivider">#abd6d3d3</color>
+    <color name="colorDisable">#d2d2d2</color>
+    <color name="colorRed">#F44336</color>
+    <color name="colorGreen">#4CAF50</color>
+
+    <color name="pageBg">#f8f8f8</color>
+    <color name="primaryTextColor">#333333</color>
+    <color name="colorBlueSelected">#36c5f1</color>
+    <color name="colorUnderline">#ebebeb</color>
+    <color name="colorHint">#666666</color>
+
+<!--    picker color-->
+    <color name="toolbar_bg">#15b1ea</color>
+    <color name="selector_color">#15b1ea</color>
+</resources>

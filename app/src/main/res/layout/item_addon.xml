@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:alpha=".8"
+            android:id="@+id/txt_name"
+            android:fontFamily="@font/poppins_medium"
+            android:textColor="@color/colorBlack"
+            android:textSize="13dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppins_regular"
+            android:id="@+id/txt_comment"
+            android:textColor="@color/colorBlueSelected"
+            android:textSize="10dp" />
+
+
+    </LinearLayout>
+
+</layout>

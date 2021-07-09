@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1030845921380",
+    "firebase_url": "https://brodkast-test-default-rtdb.firebaseio.com",
+    "project_id": "brodkast-test",
+    "storage_bucket": "brodkast-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030845921380:android:d181fd3712369313a54771",
+        "android_client_info": {
+          "package_name": "com.channelapp.brodkast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030845921380-f5vmk11kpqpfjd3ak6m9o5gqp21q2p3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4jesFN_DQpcmuW-ppydseVM78c6ky9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030845921380-f5vmk11kpqpfjd3ak6m9o5gqp21q2p3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030845921380:android:cbe9330a73b37687a54771",
+        "android_client_info": {
+          "package_name": "com.userapp.brodkast"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1030845921380-f5vmk11kpqpfjd3ak6m9o5gqp21q2p3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA4jesFN_DQpcmuW-ppydseVM78c6ky9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1030845921380-f5vmk11kpqpfjd3ak6m9o5gqp21q2p3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
