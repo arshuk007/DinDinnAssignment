@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+                                                            
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" android:tag="layout/activity_incredient_0" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <androidx.appcompat.widget.SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            app:iconifiedByDefault="false"
+            app:queryHint="Since this is hard coded data, search will not work"
+            />
+
+        <com.google.android.material.tabs.TabLayout
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:id="@+id/tab_layout"
+            app:tabGravity="start"
+            app:tabMode="scrollable"/>
+
+
+        <androidx.viewpager.widget.ViewPager
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/view_pager"/>
+
+    </LinearLayout>
+         

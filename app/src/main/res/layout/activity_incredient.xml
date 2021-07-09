@@ -6,6 +6,14 @@
         android:layout_height="match_parent"
         android:orientation="vertical">
 
+        <androidx.appcompat.widget.SearchView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            app:iconifiedByDefault="false"
+            app:queryHint="Since this is hard coded data, search will not work"
+            />
+
         <com.google.android.material.tabs.TabLayout
             android:layout_width="match_parent"
             android:layout_height="45dp"

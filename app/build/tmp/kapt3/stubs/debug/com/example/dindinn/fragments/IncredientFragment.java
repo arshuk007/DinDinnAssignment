@@ -40,6 +40,9 @@ public final class IncredientFragment extends androidx.fragment.app.Fragment {
     private final void init() {
     }
     
+    /**
+     * set data to recyclerview
+     */
     private final void setData() {
     }
     
